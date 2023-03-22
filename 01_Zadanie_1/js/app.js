@@ -9,4 +9,4 @@ const showArticle2 = () => {
 };
 
 btnPrimary.addEventListener("click", showArticle1);
-btnSuccess.addEventListener("click", showArticle2);
+btnSuccess.addEventListener("mouseover", showArticle2);
